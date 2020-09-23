@@ -3,11 +3,13 @@ Encontrei essa [tela de cadastro no Dribbble](https://dribbble.com/shots/1423584
 
 ## Screenshots
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/16376748/93835890-26b56d80-fc57-11ea-9970-14c27c9009f8.png">&nbsp;
+    <img src="https://user-images.githubusercontent.com/16376748/93835890-26b56d80-fc57-11ea-9970-14c27c9009f8.png" width="400">&nbsp;
+    <img src="https://user-images.githubusercontent.com/16376748/93951903-f553a500-fd1d-11ea-9216-65373abf024c.png" width="400">&nbsp;
 </p>
 
 ## Vídeos
-[Vídeo no YouTube](https://youtu.be/akEpDyVguwc)
+- Parte 1 - [Vídeo no YouTube](https://youtu.be/akEpDyVguwc)
+- Parte 2 - [Vídeo no YouTube](https://youtu.be/IpUCYYK7zhA)
  
 ## Requisitos
 - iOS 14
